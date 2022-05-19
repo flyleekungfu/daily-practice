@@ -1,10 +1,10 @@
-package com.saltfish.dailypractice.thread;
+package com.saltfish.dailypractice.concurrent.thread;
 
 /**
  * ThreadLocal测试
  *
  * @author saltfish
- * @date 2021/5/7 19:48
+ * @date 2021/5/7
  */
 public class ThreadLocalTest {
 
