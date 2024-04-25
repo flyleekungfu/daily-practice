@@ -1,4 +1,4 @@
-package com.saltfish.dailypractice.largefactoryinterview;
+package com.saltfish.dailypractice.interview.largefactoryinterview;
 
 /**
  * StringIntern测试

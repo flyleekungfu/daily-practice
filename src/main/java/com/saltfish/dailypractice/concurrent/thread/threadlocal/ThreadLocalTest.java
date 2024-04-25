@@ -1,4 +1,4 @@
-package com.saltfish.dailypractice.concurrent.thread;
+package com.saltfish.dailypractice.concurrent.thread.threadlocal;
 
 /**
  * ThreadLocal测试
